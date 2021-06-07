@@ -6,3 +6,6 @@ __pycache__/
 
 # venv
 venv/
+
+# 환경변수
+.env
